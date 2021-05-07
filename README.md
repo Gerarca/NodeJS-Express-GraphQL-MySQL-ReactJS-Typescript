@@ -5,6 +5,8 @@ Proyect FullStack Backend(Node JS, Express, MySQL, GraphQL) and Frontend(React J
 to Downloading(from cmd):
    
    > git clone git@github.com:Gerarca/NodeJS-Express-GraphQL-MySQL-ReactJS-Typescript.git
+   
+   > cd NodeJS-Express-GraphQL-MySQL-ReactJS-Typescript
     
    > npm i
     
